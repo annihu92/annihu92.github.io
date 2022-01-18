@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Anni Hu",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "annihu@hawaii.edu",
+    "phone": "808-392-9077",
+    "website": "https://annihu92.github.io",
+    "summary": "Hi everyone, I am Anni, my mayjor is MIS, and I am looking forward to meet with you in person this semester",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "annihu92",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "annihu",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "annihu",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "winnie_the_ni",
         "url": "http://instagram.com/changeme"
       }
     ]
