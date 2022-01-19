@@ -39,45 +39,36 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Playing piano",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Piano",
+        "Electronic piano"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Exercising",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Teaching",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Chinese",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Playing piano",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "All nine level of Central musical school requirements",
       ]
     }
   ],
