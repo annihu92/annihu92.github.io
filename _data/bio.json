@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Anni Hu",
-    "label": "Student",
+    "label": "Shidler Student",
     "picture": "https://annihu92.github.io/images/Annihu.JPG",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying Management Information Systems in the Shidler College of Business at the University of Hawaii at Mānoa.And my second major is Dental. I expect to graduate in Spring, 2023.",
+    "email": "annihu@hawaii.edu",
+    "phone": "808-392-9077",
+    "website": "https://annihu92.github.io",
+    "summary": "I am studying Management Information Systems in the Shidler College of Business at the University of Hawaii at Mānoa.And my second major is Dental. I expect to graduate in Spring, 2023",
     "location": {
       "address": "",
       "postalCode": "96813",
@@ -21,6 +21,16 @@
         "url": "http://github.com/changeme"
       },
       {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "annihu",
+        "url": "http://twitter.com/changeme"
+      },
+      {
         "network": "instagram",
         "username": "winnie_the_ni",
         "url": "http://instagram.com/changeme"
@@ -29,43 +39,54 @@
   },
   "interests": [
     {
-      "name": "Playing piano",
-       "keywords": [
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Exercising",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Teaching“,
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Chinese"
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
-      "name": "Playing piano",
+      "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "All nine level of Central musical school requirements"
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2021-08-16",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -74,41 +95,69 @@
   ],
   "work": [
     {
-      "company": "UH Manoa ICS Department",
-      "position": "Online Learning Assistant",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2021-08-16",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "President of Chinese Scholars and students Association Of UH at Manoa",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and helping Chinese Students in UH",
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
   ],
   "volunteer": [
     {
-      "organization": "Plateau Perspectives",
-      "position": "Volunteer",
-      "startDate": "2012-06-10",
-      "endDate": "2012-08-31",
-      "summary": "Teach Enlglish for students from the countryside",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Lived in the countryside to help farmwork",
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
   ],
   "awards": [
     {
-      "title": "DEAN's list",
-      "date": "Fall 2020",
-      "awarder": "University Of Hawaii at Manoa",
-      "summary": "Improved GPA 3.0 in the semester of Fall 2020"
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "First place",
       "date": "2015",
-      "awarder": "Hutai Middle school",
-      "summary": "I broke the record of 400 and 800 meters running and jump high"
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
