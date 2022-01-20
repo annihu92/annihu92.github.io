@@ -1,124 +1,109 @@
 {
-  "basics": {
-    "name": "Anni Hu",
-    "label": "Shidler Student",
-    "picture": "https://annihu92.github.io/Annihu.JPG",
-    "email": "annihu@hawaii.edu",
-    "phone": "808-392-9077",
-    "website": "https://annihu92.github.io",
-    "summary": "I am studying Management Information Systems in the Shidler College of Business at the University of Hawaii at Mānoa.And my second major is Dental. I expect to graduate in Spring, 2023",
-    "location": {
-      "address": "",
-      "postalCode": "96813",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "annihu92",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "winnie_the_ni",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Playing piano",
-      "keywords": [
-        "Piano",
-        "Electronic piano"
-      ]
-    },
-    {
-      "name": "Exercising",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Teaching",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "Chinese",
-      ]
-    },
-    {
-      "name": "Playing piano",
-      "level": "",
-      "keywords": [
-        "All nine level of Central musical school requirements",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS",
-      "studyType": "B.S.",
-      "startDate": "2021-08-16",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa ICS Department",
-      "position": "Online Learning Assistant",
-      "website": "",
-      "startDate": "2021-08-16",
-      "endDate": "Present",
-      "summary": "Assisting the TA during the class time and assists students after class",
-      "highlights": [
-        "Helping students to do better in the course",
-      ]
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "Plateau Perspectives",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "2012-06-10",
-      "endDate": "2012-08-31",
-      "summary": "Teach Enlglish for students from the countryside",
-      "highlights": [
-        "Lived in the countryside to help farmwork",
-        "Teach Enlglish for students from the countryside"
-      ]
-    },
-  ],
-  "awards": [
-    {
-      "title": "DEAN's list",
-      "date": "Fall 2020",
-      "awarder": "University Of Hawaii at Manoa",
-      "summary": "Students who improved GPA in the semester of Fall 2020 with a minimum overall GPA of 3.0 at University Of Hawaii at Manoa."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "Hutai Middle school",
-      "summary": "I broke the record of 400 and 800 meters running and jump high"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+	"basics": {
+		"name": "Anni Hu",
+		"label": "Shidler Student",
+		"picture": "https://annihu92.github.io/Annihu.JPG",
+		"email": "annihu@hawaii.edu",
+		"phone": "808-392-9077",
+		"website": "https://annihu92.github.io",
+		"summary": "I am studying Management Information Systems in the Shidler College of Business at the University of Hawaii at Mānoa.And my second major is Dental. I expect to graduate in Spring, 2023",
+		"location": {
+			"address": "",
+			"postalCode": "96813",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "annihu92",
+				"url": "http://github.com/changeme"
+			},
+			{
+				"network": "instagram",
+				"username": "winnie_the_ni",
+				"url": "http://instagram.com/changeme"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Playing piano",
+			"keywords": [
+				"Piano",
+				"Electronic piano"
+			]
+		},
+		{
+			"name": "Exercising",
+			"keywords": []
+		},
+		{
+			"name": "Teaching",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Languages",
+			"level": "",
+			"keywords": [
+				"Chinese"
+			]
+		},
+		{
+			"name": "Playing piano",
+			"level": "",
+			"keywords": [
+				"All nine level of Central musical school requirements"
+			]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "MIS",
+		"studyType": "B.S.",
+		"startDate": "2021-08-16",
+		"endDate": "Present",
+		"gpa": "",
+		"courses": []
+	}],
+	"work": [{
+		"company": "UH Manoa ICS Department",
+		"position": "Online Learning Assistant",
+		"website": "",
+		"startDate": "2021-08-16",
+		"endDate": "Present",
+		"summary": "Assisting the TA during the class time and assists students after class",
+		"highlights": [
+			"Helping students to do better in the course"
+		]
+	}],
+	"volunteer": [{
+		"organization": "Plateau Perspectives",
+		"website": "",
+		"position": "Volunteer",
+		"startDate": "2012-06-10",
+		"endDate": "2012-08-31",
+		"summary": "Teach Enlglish for students from the countryside",
+		"highlights": [
+			"Lived in the countryside to help farmwork",
+			"Teach Enlglish for students from the countryside"
+		]
+	}],
+	"awards": [{
+			"title": "DEAN's list",
+			"date": "Fall 2020",
+			"awarder": "University Of Hawaii at Manoa",
+			"summary": "Students who improved GPA in the semester of Fall 2020 with a minimum overall GPA of 3.0 at University Of Hawaii at Manoa."
+		},
+		{
+			"title": "First place",
+			"date": "2015",
+			"awarder": "Hutai Middle school",
+			"summary": "I broke the record of 400 and 800 meters running and jump high"
+		}
+	],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
