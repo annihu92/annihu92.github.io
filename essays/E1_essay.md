@@ -18,5 +18,5 @@ labels:
 	In this assignment Browser History 2&3, I had a brief idea of what we should do. So according to the skills we learned in class as well as from ICS 101. I quickly link the sources and followed the instructions, it wasn’t that bad. I wasn’t familiar with the skills and codes, so I wrote them down, to figure them out, know more about it and summary the patterns. I know we can search the codes online, but I wanted to get familiar with it so that I can operate it better.
 
 **Summary:**
-	
+
 	Before operating the assignments, I had problems on screen recordings, until now, so I had to ask if I could use Zoom. And of course, the point of recording is watching our process of programming, so before I do the task I watched and learned how to use OBS to screen record, even though it didn’t help a lot, but it was a try.
